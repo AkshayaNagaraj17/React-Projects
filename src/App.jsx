@@ -52,7 +52,7 @@ function App() {
   }
   return (
     <>
-    <div className='container rounded-md flex bg-stone-400 justify-center items-center m-20 mr-20' >
+    <div className='container rounded-md flex bg-stone-400 justify-center items-center  m-36' >
         
           <div className='flex size-60 h-50'>
             <img src="https://as1.ftcdn.net/jpg/04/02/03/42/1000_F_402034251_pd469Z7inajROMb4GMN0NV0kI8sRWhNB.webp" alt="bmi" />
